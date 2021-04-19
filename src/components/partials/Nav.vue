@@ -42,11 +42,11 @@ nav {
 
 nav a {
   font-weight: 500;
-  color: #f03a5f;
+  color: #2c3e50;
   transition: 0.3s ease;
 }
 
-nav a:hover {
+nav a:hover, nav a:active, nav a:focus {
   color: #f03a5f;
 }
 

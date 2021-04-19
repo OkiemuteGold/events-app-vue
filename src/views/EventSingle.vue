@@ -127,9 +127,9 @@ export default {
 </script>
 
 <style scoped>
-.event-single {
-  /* padding-bottom: 80px; */
-}
+/* .event-single {
+  padding-bottom: 80px;
+} */
 
 .hero {
   margin-bottom: 70px;
